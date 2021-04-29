@@ -7,3 +7,5 @@ Day 2: Linear regression, multiple linear regressio, polynomial regression using
 Day 3: Decision tree, random forest using sklearn.
 
 Day 4: Multiple Linear regression from scratch
+
+Day 5: Logistic regression from scratch
